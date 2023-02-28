@@ -7,8 +7,9 @@ Description : Our Project asks for the input of a first name, a last name, and t
 **How To Contribute**
 Please note to abide by the attached Code of Conduct.
 
+The Contributor Covenant Code of Conduct is useful for group projects with multiple contributors
 
 **Installation and Use**
-The group-project software is licensed through an MIT license.!
+The group-project software is licensed through an MIT license.
 
-description of why you went with the license and code of conduct you did. !
+We chose the MIT license because it allows code reuse to other users for modifications, larger group works and licensed activities without having us liable for changes. 
